@@ -1,32 +1,34 @@
+# Imagewize GitHub Overview
+
 Welcome to the official GitHub organization for **Imagewize Webdesign**.  
-This repository contains our default community health files used across all Imagewize public repositories.
+This repository contains shared community and configuration files used across our public repositories.
 
 ## About Imagewize
 
-**Imagewize** is a Dutch web design and development agency specializing in elegant, high-performance WordPress and WooCommerce websites. We deliver scalable, user-focused digital experiences, tailored for businesses that value quality, performance, and attention to detail.
+**Imagewize** is a Netherlands-based web design and development agency. We specialize in custom WordPress and Shopify solutions that are fast, elegant, and built to perform. Our mission is to help businesses grow through modern, user-focused digital experiences.
 
 ## Public Repositories
 
-Below is a curated selection of our publicly available repositories:
+Below is a selection of public repositories maintained by Imagewize:
 
 - **[carousel-block](https://github.com/Imagewize/carousel-block)**  
-  A lightweight and responsive JavaScript-based carousel block for modern web interfaces.
+  A lightweight JavaScript-powered carousel block for seamless content display.
 
 - **[jpc-theme](https://github.com/Imagewize/jpc-theme)**  
-  A custom WordPress theme designed for Café JP Coen, built with Blade templating.
+  A custom WordPress theme developed for Café JP Coen, utilizing Blade templates.
 
 - **[services-block](https://github.com/Imagewize/services-block)**  
-  A modular JavaScript block for showcasing services in a visually engaging format.
+  A modular JavaScript block designed for showcasing services effectively.
 
 - **[moiraine](https://github.com/Imagewize/moiraine)**  
-  A carefully crafted WordPress block theme built on top of the Ollie framework.
+  A modern WordPress block theme built on top of the Ollie framework.
 
 - **[spa-theme](https://github.com/Imagewize/spa-theme)**  
-  A serene and modern child theme for wellness centers, designed for use with Moiraine.
+  A calming, elegant child theme for wellness and spa businesses, built for use with Moiraine.
 
 - **[nynaeve](https://github.com/Imagewize/nynaeve)**  
-  A high-performance WordPress theme based on Sage 11, built for customization and scalability.
+  A flexible, high-performance theme based on Sage 11, ideal for custom WordPress development.
 
 ---
 
-Let me know if you'd like to include links to your website or services, or add a contact/support section as well.
+Let me know if you'd like to add a **"How to contribute"** section, a **Contact/Support** section, or reference to any specific projects or services on [Imagewize.com](https://imagewize.com).
