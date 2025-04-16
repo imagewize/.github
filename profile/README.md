@@ -5,7 +5,7 @@ This repository contains shared community and configuration files used across ou
 
 ## About Imagewize
 
-**Imagewize** is a Netherlands-based web design and development agency. We specialize in custom WordPress and Shopify solutions that are fast, elegant, and built to perform. Our mission is to help businesses grow through modern, user-focused digital experiences.
+**Imagewize** is a Netherlands-based web design and development agency. We specialize in custom WordPress and WooCommerce solutions that are fast, elegant, and built to perform. Our mission is to help businesses grow through modern, user-focused digital experiences.
 
 ## Public Repositories
 
