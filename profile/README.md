@@ -1,8 +1,21 @@
-# Imagewize GitHub Overview
+# Imagewize
 
-Welcome to the official GitHub organization for **Imagewize Webdesign**.  
-This repository contains shared community and configuration files used across our public repositories.
+Custom WordPress and WooCommerce development for growing businesses.
 
-## About Imagewize
+## About
 
-**Imagewize** is a International web design and development agency run by its Dutch founder Jasper Frumau. We specialize in custom WordPress and WooCommerce solutions that are fast, elegant, and built to perform. Our mission is to help businesses grow through modern, user-focused digital experiences.
+[Imagewize](https://imagewize.com) is a web design and development agency founded by Jasper Frumau. We build fast, modern WordPress sites for SMEs across the US, Europe, and Australia — no bloat, no page builders, just clean Gutenberg-first builds that perform.
+
+## What We Do
+
+- **WordPress Development** — custom themes, Gutenberg blocks, Bedrock/Trellis setups
+- **WooCommerce Development** — stores, custom checkout flows, product configurations
+- **Speed Optimization** — Core Web Vitals, server-side caching, image optimization
+- **WordPress Hosting** — Trellis-managed hosting on Hetzner, automated deployments
+- **Maintenance Plans** — updates, monitoring, backups for SMEs
+
+## Work With Us
+
+Hourly (€65/hr) and fixed-price project quotes — no retainer packages.
+
+🌐 [imagewize.com](https://imagewize.com) · [Get a quote](https://imagewize.com/contact/)
