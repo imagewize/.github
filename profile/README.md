@@ -16,6 +16,6 @@ Custom WordPress and WooCommerce development for growing businesses.
 
 ## Work With Us
 
-Hourly (€65/hr) and fixed-price project quotes — no retainer packages.
+Hourly and fixed-price project quotes — no retainer packages.
 
 🌐 [imagewize.com](https://imagewize.com) · [Get a quote](https://imagewize.com/contact/)
